@@ -1,0 +1,17 @@
+{
+	"name": "alloy-nuxt2",
+	"description": "Testing Nuxt2 with Vue components",
+	"scripts": {
+		"dev": "nuxt",
+		"build": "nuxt build",
+		"generate": "nuxt generate",
+		"start": "nuxt start"
+	},
+	"dependencies": {
+		"nuxt": "^2.14.7"
+	},
+	"devDependencies": {
+		"eslint": "^7.12.1",
+		"eslint-plugin-vue": "^7.1.0"
+	}
+}
